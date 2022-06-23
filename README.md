@@ -13,7 +13,7 @@ S2,S3,S4,S5,S6,S7,S8,S9,S0,SJ,SQ,SK,SA
 
 K2,K3,K4,K5,K6,K7,K8,K9,K0,KJ,KQ,KK,KA
 
-A box with X number of cards was dropped on the floor; create a small program sorting the cards, and then have a program tell how many complete decks of cards were dropped.
+A box with X number of cards was dropped on the floor; create a small program tell how many complete decks of cards were dropped.
 Your can uses any programming language.
 
 
